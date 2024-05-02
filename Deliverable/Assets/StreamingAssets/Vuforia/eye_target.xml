@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="eye_diagram_green" size="0.150000 0.116078" />
+    <ImageTarget name="eye_diagram_gray_15cm" size="0.150000 0.115820" />
+    <ImageTarget name="eye_diagram_black" size="0.150000 0.116078" />
+  </Tracking>
+</QCARConfig>
