@@ -9,6 +9,8 @@ B-Scan Mode is an additional mode that provides visualization of individual cros
 
 Users have the option to switch from Projection Mode to B-Scan Mode using the “B-Scan Mode” or “Projection Mode” buttons displayed at the bottom of the screen. Pressing “Projection Mode” will switch to Projection Mode, while pressing “B-Scan Mode” will switch to B-Scan Mode. 
 
+A screen capture video of this program running on an Android device is provided under Project4/Deliverable/Final Video.mp4.  
+
 ## Implementation Details
 This project was implemented in Unity and built for Android device. All programming was done using the Unity software with Vuforia Engine. An OCT scan of a healthy volunteer was previously obtained and processed by our lab.
 
